@@ -1,5 +1,7 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/adilrahman"> Aldair Roque</a>
+Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Sistem+Engineer+@bld.ai;Competitive+Programmer;Data+Base;php+HTML;4+Kyu+on+Atcoder;Backend"></a>
 </p>
