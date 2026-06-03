@@ -3,8 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Sistem+Engineer+@bld.ai;Competitive+Programmer;Data+Base;php+(5+Stars);4+Kyu+on+Atcoder;Backend"></a>
 </p>
 
-<img width="736" height="519" alt="image" src="https://github.com/user-attachments/assets/6dcc52e4-84aa-45ae-b359-0091f092b0bf" />
-
 ```css
 > root :~ Alda4r 
 ```
@@ -19,3 +17,8 @@
 
 > Always seeking new challenges in technology and software development! ✨
 ```
+
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/63b2b14a-0196-4be4-a5ae-7a595eeef8a6" />
+
+
+
