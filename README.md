@@ -5,3 +5,17 @@
 
 <img width="736" height="519" alt="image" src="https://github.com/user-attachments/assets/6dcc52e4-84aa-45ae-b359-0091f092b0bf" />
 
+```css
+> root :~ Alda4r 
+```
+```python
+> Engineering Student at Universidad Tecnológica del Perú (UTP) 🎓
+> assionate about software development and data architecture 💻
+> Specialized in Java, SQL Server, and Backend technologies ⚙️
+> xploring relational databases and NoSQL systems (Cassandra, MongoDB) 📊
+> Focused on building robust management systems and applying SOLID principles 🚩
+> Interested in process optimization, Backend development, and lifelong learning 💡
+> I enjoy solving complex problems and improving code efficiency 🛠️
+
+> Always seeking new challenges in technology and software development! ✨
+```
