@@ -23,6 +23,12 @@ Hi, I'm <a href="https://github.com/adilrahman"> Aldair Roque </a>
 <img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/6774b87d-0294-4fd0-a925-747bf1ec5895" />
 
 
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+ 
+
+
 
 
 
