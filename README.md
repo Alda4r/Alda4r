@@ -18,7 +18,8 @@
 > Always seeking new challenges in technology and software development! ✨
 ```
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/63b2b14a-0196-4be4-a5ae-7a595eeef8a6" />
+<img width="735" height="415" alt="image" src="https://github.com/user-attachments/assets/514e3281-e9ee-4831-89ff-fa91aaa84a33" />
+
 
 
 
